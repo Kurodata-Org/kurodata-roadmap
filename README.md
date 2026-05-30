@@ -17,4 +17,4 @@ Sandbox Roadmap
 
 
 References
-![Projects Docs](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+[Project doc link](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
